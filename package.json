@@ -3,6 +3,10 @@
     "displayName": "mTheme Dark",
     "description": "A dark theme for developers living in the darkness.",
     "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mtgsquad/vscext.git"
+    },
     "publisher": "mtgsquad-dev",
     "engines": {
         "vscode": "^1.54.0"
