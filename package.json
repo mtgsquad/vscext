@@ -1,0 +1,29 @@
+{
+    "name": "mtheme-dark",
+    "displayName": "mTheme Dark",
+    "description": "A dark theme for developers living in the darkness.",
+    "version": "1.0.0",
+    "publisher": "mtgsquad-dev",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "keywords": [
+        "theme",
+        "molai",
+        "mtgsquad",
+        "darkness",
+        "developer"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "MolaiT Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MolaiT Dark-color-theme.json"
+            }
+        ]
+    }
+}
